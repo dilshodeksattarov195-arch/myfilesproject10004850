@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevtringify",
+        "uuid": 37175250,
+        "checksum": "7fuzng"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
